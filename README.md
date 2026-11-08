@@ -59,4 +59,4 @@ Leo is also a DisplayXR contributor. He wrote the Minecraft Bedrock stereo mod f
 
 ---
 
-[displayxr.org](https://displayxr.org) · [thespatialshift.com](https://thespatialshift.com) · [leiainc.com](https://www.leiainc.com) · [LinkedIn](https://www.linkedin.com/in/davidfattal/)
+[dfattal.github.io](https://dfattal.github.io) (in 3D on a DisplayXR display) · [displayxr.org](https://displayxr.org) · [thespatialshift.com](https://thespatialshift.com) · [leiainc.com](https://www.leiainc.com) · [LinkedIn](https://www.linkedin.com/in/davidfattal/)
