@@ -1,9 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="David Fattal: making any display feel spatial" src="assets/banner-light.svg" width="100%">
-</picture>
-
-# David Fattal
+<img alt="David Fattal: Spatial Displays, Spatial Computing, World Models. A miniature world rising out of a glasses-free 3D display." src="assets/banner.jpg" width="100%">
 
 **Founder of [DisplayXR](https://displayxr.org)** · **Co-founder & CTO of [Leia](https://www.leiainc.com)** · **Author of [The Spatial Shift](https://thespatialshift.com)**
 
